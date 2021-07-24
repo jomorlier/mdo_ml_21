@@ -19,38 +19,39 @@ Part4  Ecoptimization & Computational Fabrication 35’
 
 ## link to codes
 [top88](https://www.topopt.mek.dtu.dk/apps-and-software)
+
 [top3D](https://www.top3d.app)
+
 [topGGP](https://github.com/topggp/blog)
+
 [EMTO](https://github.com/mid2SUPAERO/EMTO)
+
 [SMT](https://github.com/SMTorg/smt) and the [documentation](https://smt.readthedocs.io/en/latest/)
 
 
 ## Tutorials
 
- [Complex-step derivatives](http://htmlpreview.github.io/?https://github.com/jomorlier/mdocourse/blob/master/ComplexStep/ComplexStep.html)
-
 Estimate derivatives by simply passing in a complex number to your function.
 A single (complex) function evaluations computes both the function's value **(Re)** and the derivative **(Im)**.
 Is it **always** possible to do this? I mean with a standard code form industry (Nastran, Fluent etc...)?
-
- [gradient evaluation](http://htmlpreview.github.io/?https://github.com/jomorlier/mdocourse/blob/master/Sensibility/sensitivity_TD.html)
+[Complex-step derivatives](http://htmlpreview.github.io/?https://github.com/jomorlier/mdocourse/blob/master/ComplexStep/ComplexStep.html)
 
 Comparison of **Symbolic/Finite Differences/DIRECT/ADJOINT Method** on a really simple mechanical system (2DOFs).
 Play with the code for **checking** Symbolic with Finite Differences. Play with $\Delta_x$ ?
 By the way, just add the complex step approach, not so difficult when you have access to the **original** code.
 Oh, at the end which method is exact? 
+[gradient evaluation](http://htmlpreview.github.io/?https://github.com/jomorlier/mdocourse/blob/master/Sensibility/sensitivity_TD.html)
 
 BTW, How Nastran is doing for gradient computation on SOL2OO ?
 [gradient nastran](https://app.amanote.com/note-taking/document/827200fd-e137-475b-aab5-58d734086654)
 
-
 For people who are not familliar with Finite Element Method:
 http://designinformaticslab.github.io/mechdesign_lecture/2018/01/28/featop.html
 
-On using top88 to solve a 3pt bending problem
+On using top88 to solve a 3pt bending problem:
 [The 3 point bending projected corrected using top88](http://htmlpreview.github.io/?https://github.com/jomorlier/ALMcourse/blob/master/top88/topopt_3ptBENDING.html)
 
-Stress based TopOpt
+Stress based TopOpt in 2 parts:
 Part A:  [Constraints Agreggation](http://htmlpreview.github.io/?https://github.com/jomorlier/mdocourse/blob/master/AdvancedTopOpt/ConstraintsAgreggation.html)
 Thanks to my PhD Simone.
 
@@ -67,5 +68,3 @@ https://github.com/jomorlier/feacourse
 https://github.com/jomorlier/almcourse
 
 https://github.com/jomorlier/OptimizationCourse
-<img width="392" alt="image" src="https://user-images.githubusercontent.com/11868302/126872876-6be0b76e-e208-490e-b18b-032b8077e549.png">
-
