@@ -15,7 +15,7 @@ Part3 3D Printing 15’
 [PDF](https://github.com/jomorlier/mdo_ml_21/blob/main/mdo_ml_part3_compressed.pdf)
 
 Part4  Ecoptimization & Computational Fabrication 35’
-[PDF](https://github.com/jomorlier/mdo_ml_21/blob/main/mdo_ml_part4_compressed.pdf)
+[PDF](https://github.com/jomorlier/mdo_ml_21/blob/main/mdo_ml_part4-compressed.pdf)
 
 ## link to codes
 [top88](https://www.topopt.mek.dtu.dk/apps-and-software)
