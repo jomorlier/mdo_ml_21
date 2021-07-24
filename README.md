@@ -6,9 +6,23 @@ https://mdoml2021.ftmd.itb.ac.id
 This 2 hours course untitled "Design for Additive Manufacturing: Topology Optimization" is divided into 4 parts
 ## Lessons
 Part1 The Big Picture for today and Sensitivities Analysis  20’
+[PDF](https://github.com/jomorlier/mdo_ml_21/blob/main/mdo_ml_part1_compressed.pdf)
+
 Part2 Theoretical Background On SIMP 30’
+[PDF](https://github.com/jomorlier/mdo_ml_21/blob/main/mdo_ml_part2_compressed.pdf)
+
 Part3 3D Printing 15’
+[PDF](https://github.com/jomorlier/mdo_ml_21/blob/main/mdo_ml_part3_compressed.pdf)
+
 Part4  Ecoptimization & Computational Fabrication 35’
+[PDF](https://github.com/jomorlier/mdo_ml_21/blob/main/mdo_ml_part4_compressed.pdf)
+
+## link to codes
+[top88](https://www.topopt.mek.dtu.dk/apps-and-software)
+[top3D](https://www.top3d.app)
+[topGGP](https://github.com/topggp/blog)
+[EMTO](https://github.com/mid2SUPAERO/EMTO)
+[SMT](https://github.com/SMTorg/smt) and the [documentation](https://smt.readthedocs.io/en/latest/)
 
 
 ## Tutorials
@@ -43,3 +57,15 @@ Thanks to my PhD Simone.
 Part B:  [Stress Based TopOpt](http://htmlpreview.github.io/?https://github.com/jomorlier/mdocourse/blob/master/AdvancedTopOpt/StressBasedTopOpt.html)
 Thanks **AGAIN** to my PhD Simone.
 Before you can use Method of Moving Asymptotes (MMA) as an optimizer in our stress based topology optimization program, you need to obtain the Matlab implementation of MMA from Prof. Krister Svanberg (krille@math.kth.se) from KTH in Stockholm Sweden.
+
+## Prof's courses
+
+https://github.com/jomorlier/mdocourse
+
+https://github.com/jomorlier/feacourse
+
+https://github.com/jomorlier/almcourse
+
+https://github.com/jomorlier/OptimizationCourse
+<img width="392" alt="image" src="https://user-images.githubusercontent.com/11868302/126872876-6be0b76e-e208-490e-b18b-032b8077e549.png">
+
