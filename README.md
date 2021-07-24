@@ -4,15 +4,15 @@ Repo for MULTIDISCIPLINARY OPTIMIZATION AND MACHINE LEARNING FOR ENGINEERING DES
 https://mdoml2021.ftmd.itb.ac.id
 
 This 2 hours course untitled "Design for Additive Manufacturing: Topology Optimization" is divided into 4 parts
-
+## Lessons
 Part1 The Big Picture for today  20’
+
 Part2 Theoretical Background On Sensitivities And SIMP 30’
 Part3 3D Printing 15’
 Part4  Ecoptimization & Computational Fabrication 35’
 
 
-
-## Matlab tutorials on:
+## Tutorials
 
  [Complex-step derivatives](http://htmlpreview.github.io/?https://github.com/jomorlier/mdocourse/blob/master/ComplexStep/ComplexStep.html)
 
@@ -30,10 +30,8 @@ Oh, at the end which method is exact?
  BTW, How Nastran is doing for gradient computation on SOL2OO ?
 [gradient nastran](https://app.amanote.com/note-taking/document/827200fd-e137-475b-aab5-58d734086654)
 
-## Tutorials on TOPOPT C3
 
 [TOPOPT](https://github.com/jomorlier/mdocourse/blob/master/TOPOPT.md)
 
-## ADVANCED TOPOPT (FOR SUPAERO's students ONLY)
 
 [AdvTOPOPT](https://github.com/jomorlier/mdocourse/blob/master/AdvTOPOPT.md)
